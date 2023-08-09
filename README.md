@@ -32,11 +32,50 @@ Minnesota.
 `haven, sas7bdat, tidyverse, rpart, rpart.plot, party, Amelia, MASS, nnet, mice, randomForest, popbio`
 
 ### Results
-Figure 2.1: GUIDE Importance Score of Least Squared Regression Tree
-Figure 2.2: GUIDE Importance Score of Classification Tress
+<p align="left">
+  <img src="https://github.com/zwu363/UW-Madison-SP21-STAT443/blob/main/final_project/figure/Picture1.png" width="350"
+</p>
+  
+Figure 1: GUIDE Importance Score of Least Squared Regression Tree
+
+<p align="left">
+  <img src="https://github.com/zwu363/UW-Madison-SP21-STAT443/blob/main/final_project/figure/Picture2.png" width="350"
+</p>
+  
+Figure 2: GUIDE Importance Score of Classification Tress
+
+<p align="left">
+  <img src="https://github.com/zwu363/UW-Madison-SP21-STAT443/blob/main/final_project/figure/Picture3.png" width="700"
+</p>
+  
 Figure 3: the classification trees build by GUIDE
-Figure 4: the classification trees build by GUIDE, with INTP excluded
-Figure 5: The classification tree and regression tree build by RPART
+
+<p align="left">
+  <img src="https://github.com/zwu363/UW-Madison-SP21-STAT443/blob/main/final_project/figure/Picture4.png" width="700"
+</p>
+  
+Figure 4: the classification trees built by GUIDE, with INTP excluded
+
+<p align="left">
+  <img src="https://github.com/zwu363/UW-Madison-SP21-STAT443/blob/main/final_project/figure/Picture5.png" width="700"
+</p>
+  
+Figure 5: The classification tree and regression tree built by RPART
+
+<p align="left">
+  <img src="https://github.com/zwu363/UW-Madison-SP21-STAT443/blob/main/final_project/figure/Picture6.png" width="400"
+</p>
+  
 Figure 6: Plots of observed versus fitted values for different classification methods
+
+<p align="left">
+  <img src="https://github.com/zwu363/UW-Madison-SP21-STAT443/blob/main/final_project/figure/Picture7.png" width="700"
+</p>
+  
 Figure 7: the regression trees built by GUIDE
+
+<p align="left">
+  <img src="https://github.com/zwu363/UW-Madison-SP21-STAT443/blob/main/final_project/figure/Picture8.png" width="400"
+</p>
+  
 Figure 8: Plots of observed versus fitted values for different regression methods
