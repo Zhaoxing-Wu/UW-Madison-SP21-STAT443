@@ -1,0 +1,5 @@
+2019 ACS PUMS state-level microdata files may be obtained here:
+
+https://www2.census.gov/programs-surveys/acs/data/pums/2019/1-Year/
+
+Note: There are two zip files for each State. Each file has name beginning with "csv_". One file contains information about the Household and the other about the Person. For the class project, download only the Person file. For example, if you are assigned Wisconsin (WI), download the file "csv_pwi.zip". The letter "p" stands for "Person" and the letters "wi" for "WI" (Wisconsin).
